@@ -1,7 +1,7 @@
 # SCADA
 SCADA (Supervisory Control and Data Acquisition) is a system used for monitoring and controlling industrial processes. It is widely used in industries such as manufacturing, energy, water treatment, and transportation.
 
-![istockphoto-538010463-612x612](https://github.com/user-attachments/assets/e9a760b9-79cc-48b7-860c-1127fd75640a)
+![istockphoto-538010463-612x612](https://github.com/user-attachments/assets/23ed6844-ea27-4228-a2c2-2b68145d427d)
 
 
 ## Functions of SCADA:
